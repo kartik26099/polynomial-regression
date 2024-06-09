@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e091a67a-c566-4065-b9b0-9cc88ca75a91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,12 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding journey\aiml\python\udemy_projects\polynomial regression\pythonProject1\.venv" />
+      <recent name="D:\coding journey\aiml\python\udemy_projects\polynomial regression\pythonProject1\.venv\Lib\site-packages" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="postion_base_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject1" />
@@ -94,6 +95,27 @@
       <option name="presentableId" value="Default" />
       <updated>1717904995637</updated>
     </task>
+    <task id="LOCAL-00001" summary="this is a consit of an progeam of polynomial regression model">
+      <option name="closed" value="true" />
+      <created>1717911092734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717911092734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="this is a consit of an progeam of polynomial regression model">
+      <option name="closed" value="true" />
+      <created>1717911172366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717911172366</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="this is a consit of an progeam of polynomial regression model" />
+    <option name="LAST_COMMIT_MESSAGE" value="this is a consit of an progeam of polynomial regression model" />
   </component>
 </project>
